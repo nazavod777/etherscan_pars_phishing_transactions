@@ -1,0 +1,6 @@
+aiohttp>=3.7.4.post0
+aiosqlite>=0.17.0
+web3>=5.31.1
+loguru>=0.6.0
+Pyrogram>=2.0.59
+pyuseragents>=1.0.5

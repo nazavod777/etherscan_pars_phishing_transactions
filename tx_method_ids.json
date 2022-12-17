@@ -1,0 +1,17 @@
+[
+  {
+    "method_id": "0xa8174404",
+    "function_name": "matchOrders",
+    "type": "general"
+  },
+  {
+    "method_id": "0x42842e0e",
+    "function_name": "safeTransferFrom",
+    "type": "general"
+  },
+  {
+    "method_id": "0xa9059cbb",
+    "function_name": "transfer",
+    "type": "general"
+  }
+]
