@@ -1,6 +1,6 @@
 {
-  "proxy_string": "socks5://kAN2EC:Ev1Yt6tEm4aH@eproxy.site:13200",
-  "proxy_change_url": "https://mobileproxy.space/reload.html?proxy_key=a396c5d9b695f4bf14341f0aeb5221e5",
+  "proxy_string": "type://user:pass@ip:port",
+  "proxy_change_url": "",
   "bot_token": "",
   "node_url": "https://nodes.mewapi.io/rpc/eth",
   "owner_user_id": 123,
